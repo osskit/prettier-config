@@ -1,0 +1,17 @@
+{
+  "name": "@osskit/prettier-config",
+  "version": "0.0.1",
+  "description": "osskit's shareable config for Prettier",
+  "main": "prettier.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osskit/prettier-config.git"
+  },
+  "keywords": ["osskit", "prettier"],
+  "author": "osskit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/osskit/prettier-config/issues"
+  },
+  "homepage": "https://github.com/osskit/prettier-config#readme"
+}
